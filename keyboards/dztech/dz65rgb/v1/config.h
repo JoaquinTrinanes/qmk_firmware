@@ -4,8 +4,8 @@
 #define VENDOR_ID       0x445A
 #define PRODUCT_ID      0x1420
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    DZTECH
-#define PRODUCT         DZ65RGB
+#define MANUFACTURER    Joaquin
+#define PRODUCT         Mi tecladito~
 #define DESCRIPTION     DZ65 ARM RGB keyboard
 
 /* key matrix size */
